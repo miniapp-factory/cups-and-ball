@@ -1,0 +1,46 @@
+
+# 2025-12-02 15:06:57.363351
++Code the following app
++```
++App Name: Find the Ball
++
++Create a simple Cup and Ball guessing game where three cups are shown on the screen and a ball is hidden under one of them. The cups are shuffled randomly, and the player must guess which cup contains the ball. After the player selects a cup, reveal whether their guess is correct or not. Include smooth cup-shuffling animation, sound effects for correct and wrong guesses, and a replay option. The style should be fun, colorful, and easy for beginners to understand.
++
++Let the player choose a difficulty level:
++-Easy: Slow shuffle, 3 shuffles
++-Medium: Faster shuffle, 5 shuffles
++-Hard: Very fast shuffle, 8–10 shuffles
++
++-Shuffle the cups based on the chosen difficulty with smooth animations.
++-Allow the player to tap a cup to guess where the ball is.
++-Reveal if the guess is correct or wrong.
++-Track and display the player’s score.
++-Show a “Play Again” button after each round.
++-Use a colorful, minimalist, mobile-friendly design.”
++
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-02 15:06:57.364550
++Code the following app
++```
++App Name: Find the Ball
++
++Create a simple Cup and Ball guessing game where three cups are shown on the screen and a ball is hidden under one of them. The cups are shuffled randomly, and the player must guess which cup contains the ball. After the player selects a cup, reveal whether their guess is correct or not. Include smooth cup-shuffling animation, sound effects for correct and wrong guesses, and a replay option. The style should be fun, colorful, and easy for beginners to understand.
++
++Let the player choose a difficulty level:
++-Easy: Slow shuffle, 3 shuffles
++-Medium: Faster shuffle, 5 shuffles
++-Hard: Very fast shuffle, 8–10 shuffles
++
++-Shuffle the cups based on the chosen difficulty with smooth animations.
++-Allow the player to tap a cup to guess where the ball is.
++-Reveal if the guess is correct or wrong.
++-Track and display the player’s score.
++-Show a “Play Again” button after each round.
++-Use a colorful, minimalist, mobile-friendly design.”
++
++```
++
++Generate an app logo and update the app metadata title and description.
